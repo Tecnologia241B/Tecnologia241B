@@ -6,4 +6,4 @@ Meu nome é Luana
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-![https://media1.tenor.com/m/jWW009lhsRoAAAAd/outer-banks.gif](link GIF do Tenor)
+![https://media1.tenor.com/m/jWW009lhsRoAAAAd/outer-banks.gif]
